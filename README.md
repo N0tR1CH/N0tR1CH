@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">I'm a simple Computer Science Student making his way through the world of Engineering.</h3>
 
-- 🔭 I’m currently working on [Discussion Forum for engineering thesis](https://dr-enginering-thesis.netlify.app/)
-
-- 🌱 I’m currently learning **Golang with Echo/HTMX/Templ/Postgres for fullstack web app**
+- 🌱 I’m currently learning **8086/88 architecture to really get how cpu works intenally**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
